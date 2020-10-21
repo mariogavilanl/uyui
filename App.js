@@ -15,7 +15,7 @@ const App = () => {
         </Button>
       </Left>
       <Body>
-        <Title>Uyuui!</Title>
+        <Title>Uyuui! ----</Title>
       </Body>
       <Right />
     </Header>
