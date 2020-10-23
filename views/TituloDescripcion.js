@@ -30,10 +30,7 @@ const TituloDescripcion = () => {
             </View>
             <Text style={styles.label}>Descripcion:</Text>
             <View style={[{ padding:5}]}> 
-                <AutoGrowingTextInput 
-                    style={}
-                    placeholder={'mensaje'}
-                />
+               
                 <TextInput 
                     style={[styles.input, {height: 200, justifyContent:"flex-start", textAlignVertical:'top'}]}
                     multiline={true}
